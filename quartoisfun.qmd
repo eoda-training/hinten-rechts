@@ -8,6 +8,19 @@ bibliography: references.bib
 
 ## Einleitung
 
+Dieses Projekt vergleicht und analysiert in einem internationalen Vergleich den Zusammenhang zwischen Bananenkonsum und Wirtschaftswachstum. Beispielsweise lag die jahresdurchschnittliche Zuwachsrate des realen Bruttoinlandsprodukts in Vietnam zwischen 2010 und 2024 bei ungefähr 6%, verglichen mit 1,5% in Deutschland.
+
+|             | Bananenkonsum (kg je EW) | BIP-Wachstum |
+|-------------|--------------------------|--------------|
+| Deutschland | 1                        | 1,5          |
+| Vietnam     | 8                        | 5,0          |
+
+: Bananenkonsum und Wirtschaftswachstum im Vergleich
+
+Gleichzeitig war auch der Bananenkonsum in Vietnam deutlich höher als in Deutschland.
+
+![Bananenkonsum in Vietnam.](Schimpansen.jpg)
+
 ## Methoden
 
 ## Ergebnisse
