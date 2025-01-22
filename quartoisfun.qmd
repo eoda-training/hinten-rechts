@@ -32,3 +32,7 @@ Our great research was published in these journals:
 | Quarterly Journal of Economics (QJE) | 22 January 2025   |
 
 : Our citations
+
+The formula that explains the world: $$
+y = \beta_0 + \beta_1 * x_1 + \beta_2 * x_2 + \epsilon
+$$
