@@ -19,3 +19,30 @@ Abbildung
 In einem rechtwinkeligem Dreieck gilt c = √ a^2^ + b^2^ und dann kommt wieder Text.
 
 ## Ergebnisse
+
+This is in a nutshell our nobel-prize-winning research:
+
+```{r}
+plot(1:10, (1:10)**2, "l", col = "darkblue",
+     main = "Quadratic function")
+```
+
+It is so great that other economists like [@bode2023] referred to our work, and others were inspired.
+
+![Prof. Dr. Veronika Grimm was equally inspired by our ground-breaking findings.](https://www.sachverstaendigenrat-wirtschaft.de/fileadmin/_processed_/e/6/csm_221013_Veronika_Grimm_043_web_8fb177449b.jpg)
+
+Our great research was published in these journals:
+
+| Journal                              | Date              |
+|--------------------------------------|-------------------|
+| Journal of Political Economy (JPE)   | 14 September 2024 |
+| American Economic Review (AER)       | 19 December 2024  |
+| Quarterly Journal of Economics (QJE) | 22 January 2025   |
+
+: Our citations
+
+The formula that explains the world: $$
+y = \beta_0 + \beta_1 * x_1 + \beta_2 * x_2 + \epsilon
+$$
+
+
