@@ -1,0 +1,13 @@
+---
+title: "quartomachtspass"
+author: "bsz, gzs, efn"
+format: html
+editor: visual
+bibliography: references.bib
+---
+
+## Einleitung
+
+## Methoden
+
+## Ergebnisse
